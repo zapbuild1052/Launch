@@ -2,3 +2,4 @@ Roti
 Rice
 Non Veg
 noodles
+Pizza
