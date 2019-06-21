@@ -4,3 +4,5 @@ Non Veg
 noodles
 Pizza
 Tea
+Milk
+coffee
